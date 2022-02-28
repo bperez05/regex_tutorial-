@@ -3,7 +3,7 @@
 This Tutorial was made to demomtstrate how a regular expression works. Regular expresssions can be used to identify a phone number, email, address, ex
 
 ## Summary
-
+Regex are used to identify senestive information whether it be client info or empolyee info. This is a way to store the information in code with out putting the information at risk for someone to use.
 
 
 ## Table of Contents
