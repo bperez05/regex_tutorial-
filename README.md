@@ -6,8 +6,8 @@ A tutorial on regular expression components
 ## Description
 Used as guide to refer to when dealing with regular expressions in JavaScript! They can be quite tripy to understand but with this guide they should be easy to follow!
 
- -[GitHub Link](#githubdeploylink)
-- [License](#license)
+[GitHub Link](#githubdeploylink)
+[License](#license)
 
 ```
 
@@ -19,6 +19,11 @@ Used as a guide for regular expressions
 
 ### GitHub 
 * [GitHub Link](https://github.com/bperez05/regex_tutorial-)
+
+### Refrences 
+* [YouTube](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+* [W3 Schools](w3schools.com)
+* [RegexLib](https://regexlib.com/DisplayPatterns.aspx?cattabindex=0&categoryId=1)
 
 
 ## Contributers
